@@ -7,7 +7,7 @@ Internet has many state of the art ocr for predicting English characters and dig
 
 ## The Dataset:
 [Original License Plate Dataset](https://www.kaggle.com/thamizhsterio/indian-license-plates "LP dataset")<br/>
-333 Images from the above dataset were obtained and labelled in Yolo format using LabelImg Tool.<br/>
+333 Images from the above dataset were obtained and labelled in Yolo format using LabelImg Tool.
 Check the link for labelled dataset 👇:<br/>
 [Labelled Indian License Plate Dataset](https://www.kaggle.com/thekeh/indian-license-plate-letter-segmentation-dataset "Labelled Dataset")
 
