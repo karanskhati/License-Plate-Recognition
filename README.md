@@ -9,15 +9,14 @@ Internet has many state of the art ocr for predicting English characters and dig
 [This Repo was used to Train the Yolo models](https://github.com/TheKeH20/Training-Yolo-License-Plate-letter-Segmentation)
 
 ### The Dataset:
-<pre>
-     #### For Letter Segmentation:
-		[Original License Plate Dataset](https://www.kaggle.com/thamizhsterio/indian-license-plates "LP dataset")<br/>
-		333 Images from the above dataset were obtained and labelled in Yolo format using LabelImg Tool.
-		Check the link for labelled dataset 👇:<br/>
-		[Labelled Indian License Plate Dataset](https://www.kaggle.com/thekeh/indian-license-plate-letter-segmentation-dataset "Labelled Dataset")
-     #### For License Plate Detection:
-		[This Dataset was used for License Plate Detection](https://www.kaggle.com/andrewmvd/car-plate-detection)
-</pre>
+
+&nbsp; &nbsp; &nbsp;#### For Letter Segmentation:
+&nbsp; &nbsp; &nbsp; &nbsp; [Original License Plate Dataset](https://www.kaggle.com/thamizhsterio/indian-license-plates "LP dataset")<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; 333 Images from the above dataset were obtained and labelled in Yolo format using LabelImg Tool.
+&nbsp; &nbsp; &nbsp; &nbsp; Check the link for labelled dataset 👇:<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; [Labelled Indian License Plate Dataset](https://www.kaggle.com/thekeh/indian-license-plate-letter-segmentation-dataset "Labelled Dataset")
+&nbsp; &nbsp; &nbsp;#### For License Plate Detection:
+&nbsp; &nbsp; &nbsp; &nbsp; [This Dataset was used for License Plate Detection](https://www.kaggle.com/andrewmvd/car-plate-detection)
 
 ## Key Features:
 	1> Rotation Correction upto 45 Degrees
