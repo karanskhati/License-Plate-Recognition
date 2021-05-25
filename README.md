@@ -1,14 +1,14 @@
 # Indian License Plate Detection || Mosaic'21 Round-2:
 ## Introduction:
-This Project of automatic character recognition is used to detect Indian number plates from even the busiest streets and predict them to monitor unusual activities.
-The project for the round 2 of Mosaic(IIT BHU ECE departmental fest) made us detect the plates first from any image then predict it. Methods of yolo is being implemented to achieve staggering result of license plate detection with an accuracy of 97.8%.
-After which the project uses another yolo model to segment the given license plate into individual characters. Which is also supported by a sturdy 93%.
-Internet has many state of the art ocr for predicting English characters and digits but we have developed a model by the process of transfer learning taking resnet layers to predict the segmented characters up to 96.7%.
+This Project of automatic character recognition is used to detect Indian number plates from even the busiest streets and predict them to monitor unusual activities.<br/>
+The project for the round 2 of Mosaic(IIT BHU ECE departmental fest) made us detect the plates first from any image then predict it. Methods of yolo is being implemented to achieve staggering result of license plate detection with an accuracy of 97.8%.<br/>
+After which the project uses another yolo model to segment the given license plate into individual characters. Which is also supported by a sturdy 93%.<br/>
+Internet has many state of the art ocr for predicting English characters and digits but we have developed a model by the process of transfer learning taking resnet layers to predict the segmented characters up to 96.7%.<br/>
 
 ## The Dataset:
-[Original License Plate Dataset](https://www.kaggle.com/thamizhsterio/indian-license-plates "LP dataset")
-333 Images from the above dataset were obtained and labelled in Yolo format using LabelImg Tool.
-Check the link for labelled dataset 👇:
+[Original License Plate Dataset](https://www.kaggle.com/thamizhsterio/indian-license-plates "LP dataset")<br/>
+333 Images from the above dataset were obtained and labelled in Yolo format using LabelImg Tool.<br/>
+Check the link for labelled dataset 👇:<br/>
 [Labelled Indian License Plate Dataset](https://www.kaggle.com/thekeh/indian-license-plate-letter-segmentation-dataset "Labelled Dataset")
 
 ## Key Features:
