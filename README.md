@@ -5,11 +5,17 @@ The project for the round 2 of Mosaic(IIT BHU ECE departmental fest) made us det
 After which the project uses another yolo model to segment the given license plate into individual characters. Which is also supported by a sturdy 93%.<br/>
 Internet has many state of the art ocr for predicting English characters and digits but we have developed a model by the process of transfer learning taking resnet layers to predict the segmented characters up to 96.7%.<br/>
 
-## The Dataset:
+## Yolo:
+[This Repo was used to Train the Yolo models](https://github.com/TheKeH20/Training-Yolo-License-Plate-letter-Segmentation)
+
+### The Dataset:
+#### For Letter Segmentation:
 [Original License Plate Dataset](https://www.kaggle.com/thamizhsterio/indian-license-plates "LP dataset")<br/>
 333 Images from the above dataset were obtained and labelled in Yolo format using LabelImg Tool.
 Check the link for labelled dataset 👇:<br/>
 [Labelled Indian License Plate Dataset](https://www.kaggle.com/thekeh/indian-license-plate-letter-segmentation-dataset "Labelled Dataset")
+#### For License Plate Detection:
+[This Dataset was used for License Plate Detection](https://www.kaggle.com/andrewmvd/car-plate-detection)
 
 ## Key Features:
 	1> Rotation Correction upto 45 Degrees
